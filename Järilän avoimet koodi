@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fi">
+<meta charset="UTF-8">
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="">
+<style>
+html,body {font-family:"Andalé Mono", monospace}
+h1,h2,h3,h4,h5,h6 {font-family:"Brush Script MT", cursive}
+</style>
+<script src=""></script>
+<body style="background-image: url(ranska.jpg); style="opacity: 50%; size: 20%;">
+<center>
+    <br>
+    <img src="Wimbledon.svg" style="size:20%">
+    <br>
+    <Br>
+    <h1>Sinut on kutsuttu Järilän Avoimet IX Tennisturnaukseen 23.6.2023</h1>
+    <br>
+    <br>
+    <p>Lisätietoja tulossa</p>
+</center>
+</body>
+</html>
